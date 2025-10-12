@@ -42,7 +42,7 @@ This repository is meant for:
   Helping others learn by referring to working examples.
 
 🛠 How to Use
-  Clone the repository: git clone https://github.com/nikithadubbaka05-sketch/LearningJavaATB14xProgram.git
+  Clone the repository: git clone https://github.com/nikithadubbaka05-sketch/JavaATB14xProgram.git
   Import into Eclipse or IntelliJ IDEA.
   Run Java programs directly OR execute Selenium test cases using TestNG.
 
