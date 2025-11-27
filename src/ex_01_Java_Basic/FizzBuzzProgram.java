@@ -3,7 +3,7 @@ package ex_01_Java_Basic;
 import java.util.Scanner;
 import java.lang.*;
 
-public class FizzBuzz {
+public class FizzBuzzProgram {
     public static void main() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the value of n: ");
